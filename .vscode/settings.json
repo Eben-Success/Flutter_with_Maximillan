@@ -1,7 +1,9 @@
 {
-    "launch": {
-    
-        "configurations": [],
-        "compounds": []
-    }
+  "launch": {
+    "configurations": [],
+    "compounds": []
+  },
+  "prettier.requireConfig": true,
+  "editor.tabCompletion": "off",
+  "editor.tabSize": 8
 }
